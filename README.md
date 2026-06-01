@@ -1,47 +1,60 @@
 # 🚀 Roverse AI
 
-Modern AI-powered chat application built with Next.js, Gemini AI, Assistant UI, and Vercel.
+Roverse AI is a modern conversational AI platform built to deliver fast, intelligent, and seamless interactions through a clean and intuitive interface.
 
 🌐 Live Demo: https://roverse-ai.vercel.app/
 
-## Features
-- Real-time AI chat
-- Gemini 2.5 Flash
-- Streaming responses
-- Dark mode UI
-- Multiple chat threads
-- Responsive design
+---
 
-## Tech Stack
+## ✨ Features
+
+- Real-time AI conversations
+- Fast and intelligent responses
+- Multi-thread chat experience
+- Modern dark interface
+- Responsive across devices
+- Clean and distraction-free design
+
+---
+
+## 🛠️ Built With
+
 - Next.js
+- React
 - TypeScript
 - Tailwind CSS
-- Assistant UI
-- Vercel AI SDK
-- Google Gemini API
+- Vercel
 
-## Getting Started
+---
 
-npm install
+## 🌍 Live Application
 
-Create `.env.local`
+**Roverse AI**
 
-GOOGLE_GENERATIVE_AI_API_KEY=YOUR_API_KEY
+https://roverse-ai.vercel.app/
 
-npm run dev
+---
 
-## Deployment
+## 🎯 Vision
 
-Hosted on Vercel
+Roverse AI aims to create a powerful and accessible AI experience that helps users learn, explore ideas, solve problems, and boost productivity.
 
-## Future Plans
+---
 
-- Authentication
-- Chat history
-- File uploads
-- Voice AI
-- AI agents
+## 🔮 Roadmap
 
-## Developer
+- Persistent chat history
+- User authentication
+- File upload support
+- Voice interactions
+- AI agents and automation
+- Personalized experiences
+- Mobile application
 
-Rohit Khare
+---
+
+## 👨‍💻 Creator
+
+**Rohit Khare**
+
+GitHub: https://github.com/rohitkhare09
